@@ -1,6 +1,3 @@
-// function(){
-//     this is function of example;
-// }
 // const $app = document.getElementById('app');
 
 // class Starship{
